@@ -31,5 +31,5 @@ http://serverIP:8000
 ```
 
 ### Advanced
-WebDetector is just a way to show real-time stream through B/S, with MaskRCNN.etc, you can amplify the its meaning.
-
+WebDetector is just a way to show real-time stream through B/S, with MaskRCNN.etc, you can amplify its meaning.
+![img](http://p9cfwszun.bkt.clouddn.com/Screenshot%20from%202018-05-24%2022-35-17_LI.jpg)
