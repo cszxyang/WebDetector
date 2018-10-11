@@ -3,9 +3,9 @@
 ### Application Scenarios
 Streaming detected results in nearly real time to browser so that the managers of some facilities are able to access the monitoring view In any place through Internet or LAN.
 
-![img](http://p9cfwszun.bkt.clouddn.com/wd1.PNG)
+![img](./imgs/wd1.PNG)
 
-![img](http://p9cfwszun.bkt.clouddn.com/wd2.PNG)
+![img](./imgs/wd2.PNG)
 
 ### Environment
 Make sure that the following pacages have been installed in your working machine
